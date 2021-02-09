@@ -9,7 +9,7 @@ require (
 	github.com/denisenkom/go-mssqldb v0.9.0 // indirect
 	github.com/jinzhu/gorm v1.9.16 // indirect
 	github.com/kylelemons/go-gypsy v1.0.0 // indirect
-	github.com/labstack/echo v3.3.10+incompatible // indirect
+	github.com/labstack/echo v3.3.10+incompatible
 	github.com/labstack/echo/v4 v4.1.17
 	github.com/lib/pq v1.9.0 // indirect
 	github.com/mattn/go-sqlite3 v1.14.6 // indirect

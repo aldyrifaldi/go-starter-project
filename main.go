@@ -13,7 +13,7 @@ func main() {
 	console()
 
 	e := routes.Routes()
-	e.Start(":8800")
+	e.Start(":9200")
 }
 
 
